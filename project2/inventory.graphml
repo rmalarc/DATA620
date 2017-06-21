@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="Offer date" attr.type="string" for="node" id="d6" />
+  <key attr.name="Discount" attr.type="int" for="node" id="d5" />
+  <key attr.name="Ready for use" attr.type="string" for="node" id="d4" />
+  <key attr.name="Product" attr.type="string" for="node" id="d3" />
+  <key attr.name="Minimum Qty kg" attr.type="int" for="node" id="d2" />
+  <key attr.name="Origin" attr.type="string" for="node" id="d1" />
+  <key attr.name="typ" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Gonzalez">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal63">
+      <data key="d1">Venezuela</data>
+      <data key="d2">776</data>
+      <data key="d3">Weed</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">42</data>
+      <data key="d6">14/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Wilson">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal21">
+      <data key="d1">China</data>
+      <data key="d2">307</data>
+      <data key="d3">Coke</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">48</data>
+      <data key="d6">05/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal88">
+      <data key="d1">Venezuela</data>
+      <data key="d2">851</data>
+      <data key="d3">Weed</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">49</data>
+      <data key="d6">02/08/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Russell">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal84">
+      <data key="d1">Russia</data>
+      <data key="d2">627</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">42</data>
+      <data key="d6">26/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Barnes">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal86">
+      <data key="d1">Netherlands</data>
+      <data key="d2">790</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">88</data>
+      <data key="d6">26/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal87">
+      <data key="d1">U.S.A</data>
+      <data key="d2">235</data>
+      <data key="d3">Vicodin</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">56</data>
+      <data key="d6">26/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Smith">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal81">
+      <data key="d1">Venezuela</data>
+      <data key="d2">509</data>
+      <data key="d3">X</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">52</data>
+      <data key="d6">19/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal82">
+      <data key="d1">Cuba</data>
+      <data key="d2">478</data>
+      <data key="d3">PCP</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">16</data>
+      <data key="d6">19/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal83">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">453</data>
+      <data key="d3">Ketamine</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">79</data>
+      <data key="d6">19/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Phillips">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Diaz">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Hill">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Bailey">
+      <data key="d0">customer</data>
+    </node>
+    <node id="White">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Powell">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal89">
+      <data key="d1">Russia</data>
+      <data key="d2">932</data>
+      <data key="d3">Coke</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">18</data>
+      <data key="d6">02/08/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Brown">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Brooks">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal3">
+      <data key="d1">Guatemala</data>
+      <data key="d2">340</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">85</data>
+      <data key="d6">01/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal2">
+      <data key="d1">U.S.A</data>
+      <data key="d2">663</data>
+      <data key="d3">X</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">56</data>
+      <data key="d6">01/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal1">
+      <data key="d1">U.S.A</data>
+      <data key="d2">574</data>
+      <data key="d3">Coke</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">17</data>
+      <data key="d6">01/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Harris">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal7">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">326</data>
+      <data key="d3">Ketamine</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">78</data>
+      <data key="d6">08/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal6">
+      <data key="d1">Cuba</data>
+      <data key="d2">154</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">28</data>
+      <data key="d6">08/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal5">
+      <data key="d1">China</data>
+      <data key="d2">775</data>
+      <data key="d3">PCP</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">82</data>
+      <data key="d6">08/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal4">
+      <data key="d1">Mexico</data>
+      <data key="d2">825</data>
+      <data key="d3">H</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">23</data>
+      <data key="d6">08/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Fisher">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal9">
+      <data key="d1">Venezuela</data>
+      <data key="d2">969</data>
+      <data key="d3">Shrooms</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">32</data>
+      <data key="d6">15/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal8">
+      <data key="d1">Mexico</data>
+      <data key="d2">484</data>
+      <data key="d3">X</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">75</data>
+      <data key="d6">15/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal98">
+      <data key="d1">U.S.A</data>
+      <data key="d2">710</data>
+      <data key="d3">Meth</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">66</data>
+      <data key="d6">16/08/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Rogers">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal93">
+      <data key="d1">Guatemala</data>
+      <data key="d2">685</data>
+      <data key="d3">Weed</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">50</data>
+      <data key="d6">09/08/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="James">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal91">
+      <data key="d1">U.S.A</data>
+      <data key="d2">2</data>
+      <data key="d3">Ketamine</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">87</data>
+      <data key="d6">02/08/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal90">
+      <data key="d1">U.S.A</data>
+      <data key="d2">796</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">53</data>
+      <data key="d6">02/08/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal97">
+      <data key="d1">Russia</data>
+      <data key="d2">689</data>
+      <data key="d3">H</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">45</data>
+      <data key="d6">16/08/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal96">
+      <data key="d1">Venezuela</data>
+      <data key="d2">939</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">39</data>
+      <data key="d6">16/08/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal95">
+      <data key="d1">U.S.A</data>
+      <data key="d2">588</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">89</data>
+      <data key="d6">09/08/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal94">
+      <data key="d1">U.S.A</data>
+      <data key="d2">805</data>
+      <data key="d3">Shrooms</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">32</data>
+      <data key="d6">09/08/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Roberts">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal12">
+      <data key="d1">Netherlands</data>
+      <data key="d2">956</data>
+      <data key="d3">H</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">44</data>
+      <data key="d6">22/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal11">
+      <data key="d1">China</data>
+      <data key="d2">239</data>
+      <data key="d3">X</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">30</data>
+      <data key="d6">15/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal10">
+      <data key="d1">Mexico</data>
+      <data key="d2">893</data>
+      <data key="d3">Vicodin</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">86</data>
+      <data key="d6">15/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal17">
+      <data key="d1">Mexico</data>
+      <data key="d2">94</data>
+      <data key="d3">Weed</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">40</data>
+      <data key="d6">29/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Nelson">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal15">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">880</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">86</data>
+      <data key="d6">22/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal14">
+      <data key="d1">U.S.A</data>
+      <data key="d2">748</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">48</data>
+      <data key="d6">22/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal19">
+      <data key="d1">China</data>
+      <data key="d2">945</data>
+      <data key="d3">Coke</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">56</data>
+      <data key="d6">29/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal18">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">785</data>
+      <data key="d3">PCP</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">44</data>
+      <data key="d6">29/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Thomas">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Parker">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Moore">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Sullivan">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal58">
+      <data key="d1">Russia</data>
+      <data key="d2">480</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">51</data>
+      <data key="d6">07/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal57">
+      <data key="d1">Cuba</data>
+      <data key="d2">254</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">21</data>
+      <data key="d6">07/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Allen">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Perry">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Jackson">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Howard">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Long">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal40">
+      <data key="d1">China</data>
+      <data key="d2">671</data>
+      <data key="d3">Meth</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">88</data>
+      <data key="d6">10/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Wright">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Anderson">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Foster">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Morales">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Butler">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Collins">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal54">
+      <data key="d1">Netherlands</data>
+      <data key="d2">500</data>
+      <data key="d3">Vicodin</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">32</data>
+      <data key="d6">31/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Ross">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal66">
+      <data key="d1">China</data>
+      <data key="d2">402</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">50</data>
+      <data key="d6">21/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal67">
+      <data key="d1">U.S.A</data>
+      <data key="d2">113</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">68</data>
+      <data key="d6">21/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal64">
+      <data key="d1">Mexico</data>
+      <data key="d2">119</data>
+      <data key="d3">Coke</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">53</data>
+      <data key="d6">21/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal65">
+      <data key="d1">Guatemala</data>
+      <data key="d2">757</data>
+      <data key="d3">Vicodin</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">39</data>
+      <data key="d6">21/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal62">
+      <data key="d1">Cuba</data>
+      <data key="d2">646</data>
+      <data key="d3">Vicodin</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">82</data>
+      <data key="d6">14/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Lee">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal60">
+      <data key="d1">China</data>
+      <data key="d2">172</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">46</data>
+      <data key="d6">14/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal61">
+      <data key="d1">Netherlands</data>
+      <data key="d2">870</data>
+      <data key="d3">Shrooms</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">20</data>
+      <data key="d6">14/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal41">
+      <data key="d1">China</data>
+      <data key="d2">160</data>
+      <data key="d3">Meth</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">36</data>
+      <data key="d6">10/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal68">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">761</data>
+      <data key="d3">H</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">32</data>
+      <data key="d6">28/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal69">
+      <data key="d1">Netherlands</data>
+      <data key="d2">580</data>
+      <data key="d3">Ketamine</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">31</data>
+      <data key="d6">28/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Nguyen">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Cruz">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Reed">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Cook">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Ward">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Lopez">
+      <data key="d0">customer</data>
+    </node>
+    <node id="King">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Johnson">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Torres">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Baker">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Green">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Perez">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Davis">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal75">
+      <data key="d1">U.S.A</data>
+      <data key="d2">515</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">63</data>
+      <data key="d6">05/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Sanchez">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal77">
+      <data key="d1">Guatemala</data>
+      <data key="d2">453</data>
+      <data key="d3">Weed</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">56</data>
+      <data key="d6">12/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Taylor">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal71">
+      <data key="d1">Cuba</data>
+      <data key="d2">340</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">82</data>
+      <data key="d6">28/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal70">
+      <data key="d1">Mexico</data>
+      <data key="d2">252</data>
+      <data key="d3">Meth</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">77</data>
+      <data key="d6">28/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Clark">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal72">
+      <data key="d1">Cuba</data>
+      <data key="d2">266</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">15</data>
+      <data key="d6">05/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Jenkins">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal79">
+      <data key="d1">Venezuela</data>
+      <data key="d2">641</data>
+      <data key="d3">Vicodin</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">59</data>
+      <data key="d6">12/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal78">
+      <data key="d1">Cuba</data>
+      <data key="d2">516</data>
+      <data key="d3">Shrooms</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">63</data>
+      <data key="d6">12/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Gomez">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Rivera">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal85">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">343</data>
+      <data key="d3">X</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">65</data>
+      <data key="d6">26/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Cooper">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Ortiz">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Young">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal80">
+      <data key="d1">Mexico</data>
+      <data key="d2">915</data>
+      <data key="d3">Coke</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">83</data>
+      <data key="d6">19/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal74">
+      <data key="d1">Guatemala</data>
+      <data key="d2">964</data>
+      <data key="d3">PCP</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">39</data>
+      <data key="d6">05/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Hernandez">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Sanders">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal42">
+      <data key="d1">Cuba</data>
+      <data key="d2">857</data>
+      <data key="d3">H</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">19</data>
+      <data key="d6">10/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal43">
+      <data key="d1">Cuba</data>
+      <data key="d2">92</data>
+      <data key="d3">X</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">88</data>
+      <data key="d6">10/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal44">
+      <data key="d1">China</data>
+      <data key="d2">774</data>
+      <data key="d3">Coke</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">77</data>
+      <data key="d6">17/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal45">
+      <data key="d1">China</data>
+      <data key="d2">413</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">70</data>
+      <data key="d6">17/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal46">
+      <data key="d1">Russia</data>
+      <data key="d2">167</data>
+      <data key="d3">Coke</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">47</data>
+      <data key="d6">17/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal47">
+      <data key="d1">Mexico</data>
+      <data key="d2">533</data>
+      <data key="d3">Vicodin</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">24</data>
+      <data key="d6">17/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal48">
+      <data key="d1">Venezuela</data>
+      <data key="d2">7</data>
+      <data key="d3">Shrooms</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">50</data>
+      <data key="d6">24/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal49">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">683</data>
+      <data key="d3">X</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">64</data>
+      <data key="d6">24/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Flores">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Adams">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal38">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">750</data>
+      <data key="d3">Meth</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">64</data>
+      <data key="d6">03/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal76">
+      <data key="d1">Cuba</data>
+      <data key="d2">159</data>
+      <data key="d3">Coke</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">34</data>
+      <data key="d6">12/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Walker">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Richardson">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Evans">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal59">
+      <data key="d1">Russia</data>
+      <data key="d2">454</data>
+      <data key="d3">Coke</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">28</data>
+      <data key="d6">07/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Bell">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Rodriguez">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal56">
+      <data key="d1">Russia</data>
+      <data key="d2">637</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">48</data>
+      <data key="d6">07/06/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal55">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">479</data>
+      <data key="d3">Weed</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">48</data>
+      <data key="d6">31/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Bennett">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal53">
+      <data key="d1">Venezuela</data>
+      <data key="d2">92</data>
+      <data key="d3">Meth</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">77</data>
+      <data key="d6">31/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal52">
+      <data key="d1">Russia</data>
+      <data key="d2">249</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">66</data>
+      <data key="d6">31/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal51">
+      <data key="d1">Russia</data>
+      <data key="d2">418</data>
+      <data key="d3">Meth</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">39</data>
+      <data key="d6">24/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal50">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">928</data>
+      <data key="d3">Vicodin</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">53</data>
+      <data key="d6">24/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Martinez">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Lewis">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Campbell">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Peterson">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Edwards">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Wood">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Gutierrez">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Reyes">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Thompson">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal30">
+      <data key="d1">China</data>
+      <data key="d2">877</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">37</data>
+      <data key="d6">19/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Williams">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal28">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">910</data>
+      <data key="d3">Ketamine</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">51</data>
+      <data key="d6">19/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal29">
+      <data key="d1">Mexico</data>
+      <data key="d2">824</data>
+      <data key="d3">H</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">30</data>
+      <data key="d6">19/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal22">
+      <data key="d1">Guatemala</data>
+      <data key="d2">80</data>
+      <data key="d3">Shrooms</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">45</data>
+      <data key="d6">05/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal23">
+      <data key="d1">Mexico</data>
+      <data key="d2">578</data>
+      <data key="d3">H</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">84</data>
+      <data key="d6">05/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Price">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Murphy">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal26">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">815</data>
+      <data key="d3">PCP</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">57</data>
+      <data key="d6">12/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal27">
+      <data key="d1">China</data>
+      <data key="d2">791</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">52</data>
+      <data key="d6">12/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal24">
+      <data key="d1">Russia</data>
+      <data key="d2">440</data>
+      <data key="d3">X</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">38</data>
+      <data key="d6">12/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal25">
+      <data key="d1">China</data>
+      <data key="d2">651</data>
+      <data key="d3">H</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">60</data>
+      <data key="d6">12/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal73">
+      <data key="d1">Mexico</data>
+      <data key="d2">719</data>
+      <data key="d3">PCP</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">87</data>
+      <data key="d6">05/07/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Watson">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal92">
+      <data key="d1">U.S.A</data>
+      <data key="d2">96</data>
+      <data key="d3">X</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">54</data>
+      <data key="d6">09/08/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Hall">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Jones">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal0">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">186</data>
+      <data key="d3">Meth</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">53</data>
+      <data key="d6">01/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Hughes">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Cox">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Ramirez">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Garcia">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Morris">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Morgan">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Martin">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Kelly">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Gray">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Myers">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Mitchell">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Stewart">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal39">
+      <data key="d1">Afghanistan</data>
+      <data key="d2">4</data>
+      <data key="d3">Meth</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">43</data>
+      <data key="d6">03/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal13">
+      <data key="d1">Cuba</data>
+      <data key="d2">768</data>
+      <data key="d3">H</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">84</data>
+      <data key="d6">22/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Carter">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal31">
+      <data key="d1">U.S.A</data>
+      <data key="d2">615</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">85</data>
+      <data key="d6">19/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Miller">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal33">
+      <data key="d1">Mexico</data>
+      <data key="d2">470</data>
+      <data key="d3">Weed</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">83</data>
+      <data key="d6">26/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal32">
+      <data key="d1">China</data>
+      <data key="d2">640</data>
+      <data key="d3">Meth</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">52</data>
+      <data key="d6">26/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal35">
+      <data key="d1">Mexico</data>
+      <data key="d2">887</data>
+      <data key="d3">Coke</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">20</data>
+      <data key="d6">26/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal34">
+      <data key="d1">Mexico</data>
+      <data key="d2">935</data>
+      <data key="d3">Vicodin</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">55</data>
+      <data key="d6">26/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal37">
+      <data key="d1">Netherlands</data>
+      <data key="d2">596</data>
+      <data key="d3">X</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">34</data>
+      <data key="d6">03/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal36">
+      <data key="d1">U.S.A</data>
+      <data key="d2">721</data>
+      <data key="d3">Weed</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">41</data>
+      <data key="d6">03/05/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="Scott">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Turner">
+      <data key="d0">customer</data>
+    </node>
+    <node id="Robinson">
+      <data key="d0">customer</data>
+    </node>
+    <node id="deal20">
+      <data key="d1">Cuba</data>
+      <data key="d2">647</data>
+      <data key="d3">X</data>
+      <data key="d4">FALSE</data>
+      <data key="d5">45</data>
+      <data key="d6">05/04/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <node id="deal16">
+      <data key="d1">China</data>
+      <data key="d2">437</data>
+      <data key="d3">X</data>
+      <data key="d4">TRUE</data>
+      <data key="d5">85</data>
+      <data key="d6">29/03/2012</data>
+      <data key="d0">deal</data>
+    </node>
+    <edge source="deal63" target="Richardson" />
+    <edge source="deal63" target="Ward" />
+    <edge source="deal63" target="Gutierrez" />
+    <edge source="deal63" target="Long" />
+    <edge source="deal21" target="Johnson" />
+    <edge source="deal21" target="Bell" />
+    <edge source="deal21" target="Cox" />
+    <edge source="deal21" target="Smith" />
+    <edge source="deal21" target="Morris" />
+    <edge source="deal21" target="Flores" />
+    <edge source="deal21" target="Cook" />
+    <edge source="deal21" target="Jenkins" />
+    <edge source="deal88" target="Baker" />
+    <edge source="deal88" target="Edwards" />
+    <edge source="deal88" target="Ross" />
+    <edge source="deal88" target="Evans" />
+    <edge source="deal88" target="Howard" />
+    <edge source="deal84" target="Gonzalez" />
+    <edge source="deal84" target="Edwards" />
+    <edge source="deal84" target="Howard" />
+    <edge source="deal84" target="Lopez" />
+    <edge source="deal84" target="Young" />
+    <edge source="deal86" target="Lee" />
+    <edge source="deal86" target="Evans" />
+    <edge source="deal86" target="Edwards" />
+    <edge source="deal86" target="Peterson" />
+    <edge source="deal86" target="Wright" />
+    <edge source="deal86" target="Harris" />
+    <edge source="deal86" target="Allen" />
+    <edge source="deal86" target="Turner" />
+    <edge source="deal86" target="Lopez" />
+    <edge source="deal87" target="Hernandez" />
+    <edge source="deal87" target="Clark" />
+    <edge source="deal87" target="Martinez" />
+    <edge source="deal87" target="Martin" />
+    <edge source="deal87" target="Butler" />
+    <edge source="deal87" target="Fisher" />
+    <edge source="deal81" target="Miller" />
+    <edge source="deal81" target="Parker" />
+    <edge source="deal81" target="Wood" />
+    <edge source="deal81" target="Young" />
+    <edge source="deal81" target="Gray" />
+    <edge source="deal83" target="Nguyen" />
+    <edge source="deal83" target="White" />
+    <edge source="deal89" target="Rodriguez" />
+    <edge source="deal89" target="Phillips" />
+    <edge source="deal89" target="Scott" />
+    <edge source="deal89" target="Jenkins" />
+    <edge source="deal89" target="Campbell" />
+    <edge source="deal89" target="Allen" />
+    <edge source="deal3" target="Nguyen" />
+    <edge source="deal3" target="Lee" />
+    <edge source="deal3" target="Barnes" />
+    <edge source="deal3" target="Murphy" />
+    <edge source="deal3" target="Brooks" />
+    <edge source="deal3" target="Roberts" />
+    <edge source="deal3" target="Davis" />
+    <edge source="deal3" target="Hall" />
+    <edge source="deal3" target="Ross" />
+    <edge source="deal2" target="Sanders" />
+    <edge source="deal2" target="Thomas" />
+    <edge source="deal2" target="Jackson" />
+    <edge source="deal2" target="Price" />
+    <edge source="deal2" target="Wood" />
+    <edge source="deal2" target="Butler" />
+    <edge source="deal2" target="Fisher" />
+    <edge source="deal2" target="Peterson" />
+    <edge source="deal2" target="Mitchell" />
+    <edge source="deal2" target="Foster" />
+    <edge source="deal1" target="Jackson" />
+    <edge source="deal1" target="Bell" />
+    <edge source="deal1" target="Rodriguez" />
+    <edge source="deal1" target="Cox" />
+    <edge source="deal1" target="Smith" />
+    <edge source="deal1" target="Martin" />
+    <edge source="deal1" target="Campbell" />
+    <edge source="deal1" target="Fisher" />
+    <edge source="deal1" target="Peterson" />
+    <edge source="deal1" target="Mitchell" />
+    <edge source="deal7" target="Gray" />
+    <edge source="deal7" target="White" />
+    <edge source="deal6" target="Richardson" />
+    <edge source="deal6" target="Morales" />
+    <edge source="deal6" target="Long" />
+    <edge source="deal6" target="Evans" />
+    <edge source="deal5" target="Parker" />
+    <edge source="deal5" target="Jackson" />
+    <edge source="deal5" target="Powell" />
+    <edge source="deal5" target="Reed" />
+    <edge source="deal5" target="White" />
+    <edge source="deal5" target="Peterson" />
+    <edge source="deal4" target="Sanchez" />
+    <edge source="deal4" target="Gomez" />
+    <edge source="deal4" target="Reed" />
+    <edge source="deal9" target="Lee" />
+    <edge source="deal9" target="Rogers" />
+    <edge source="deal9" target="Brooks" />
+    <edge source="deal9" target="Long" />
+    <edge source="deal9" target="Richardson" />
+    <edge source="deal9" target="Nelson" />
+    <edge source="deal8" target="Thompson" />
+    <edge source="deal8" target="Nguyen" />
+    <edge source="deal98" target="Martinez" />
+    <edge source="deal98" target="Hernandez" />
+    <edge source="deal98" target="Thompson" />
+    <edge source="deal98" target="Sanchez" />
+    <edge source="deal93" target="Turner" />
+    <edge source="deal91" target="Hernandez" />
+    <edge source="deal91" target="Brown" />
+    <edge source="deal91" target="Hughes" />
+    <edge source="deal91" target="Taylor" />
+    <edge source="deal91" target="Adams" />
+    <edge source="deal91" target="King" />
+    <edge source="deal91" target="Sullivan" />
+    <edge source="deal91" target="Bennett" />
+    <edge source="deal91" target="Parker" />
+    <edge source="deal91" target="Morgan" />
+    <edge source="deal91" target="Walker" />
+    <edge source="deal91" target="Robinson" />
+    <edge source="deal91" target="Carter" />
+    <edge source="deal90" target="Gray" />
+    <edge source="deal90" target="Parker" />
+    <edge source="deal90" target="Clark" />
+    <edge source="deal90" target="Howard" />
+    <edge source="deal90" target="Young" />
+    <edge source="deal90" target="Foster" />
+    <edge source="deal90" target="Reed" />
+    <edge source="deal90" target="Fisher" />
+    <edge source="deal90" target="Morales" />
+    <edge source="deal90" target="Collins" />
+    <edge source="deal90" target="Butler" />
+    <edge source="deal90" target="Allen" />
+    <edge source="deal90" target="Sanders" />
+    <edge source="deal97" target="Kelly" />
+    <edge source="deal97" target="Gomez" />
+    <edge source="deal97" target="Cooper" />
+    <edge source="deal97" target="Young" />
+    <edge source="deal96" target="Sanchez" />
+    <edge source="deal96" target="Murphy" />
+    <edge source="deal96" target="Scott" />
+    <edge source="deal96" target="Lee" />
+    <edge source="deal96" target="Rogers" />
+    <edge source="deal95" target="Gonzalez" />
+    <edge source="deal95" target="Nguyen" />
+    <edge source="deal95" target="Parker" />
+    <edge source="deal95" target="Clark" />
+    <edge source="deal95" target="Miller" />
+    <edge source="deal95" target="Baker" />
+    <edge source="deal95" target="Young" />
+    <edge source="deal95" target="Roberts" />
+    <edge source="deal95" target="Wood" />
+    <edge source="deal95" target="Nelson" />
+    <edge source="deal95" target="Morales" />
+    <edge source="deal95" target="Barnes" />
+    <edge source="deal95" target="Kelly" />
+    <edge source="deal95" target="Fisher" />
+    <edge source="deal95" target="Turner" />
+    <edge source="deal95" target="Price" />
+    <edge source="deal95" target="Williams" />
+    <edge source="deal94" target="Gonzalez" />
+    <edge source="deal94" target="Sanders" />
+    <edge source="deal94" target="Cooper" />
+    <edge source="deal94" target="Lee" />
+    <edge source="deal94" target="Gutierrez" />
+    <edge source="deal94" target="Barnes" />
+    <edge source="deal94" target="Young" />
+    <edge source="deal94" target="Powell" />
+    <edge source="deal94" target="Foster" />
+    <edge source="deal94" target="Morales" />
+    <edge source="deal94" target="Martin" />
+    <edge source="deal94" target="Butler" />
+    <edge source="deal94" target="Richardson" />
+    <edge source="deal94" target="Turner" />
+    <edge source="deal94" target="Mitchell" />
+    <edge source="deal94" target="Peterson" />
+    <edge source="deal12" target="Sanchez" />
+    <edge source="deal12" target="Reed" />
+    <edge source="deal12" target="Powell" />
+    <edge source="deal12" target="Sanders" />
+    <edge source="deal10" target="Miller" />
+    <edge source="deal10" target="Foster" />
+    <edge source="deal10" target="Allen" />
+    <edge source="deal17" target="Brown" />
+    <edge source="deal17" target="Hughes" />
+    <edge source="deal17" target="Taylor" />
+    <edge source="deal17" target="Carter" />
+    <edge source="deal17" target="Rogers" />
+    <edge source="deal17" target="King" />
+    <edge source="deal17" target="Lewis" />
+    <edge source="deal17" target="Baker" />
+    <edge source="deal17" target="Murphy" />
+    <edge source="deal17" target="Long" />
+    <edge source="deal17" target="Watson" />
+    <edge source="deal17" target="Harris" />
+    <edge source="deal17" target="Green" />
+    <edge source="deal17" target="Morales" />
+    <edge source="deal17" target="James" />
+    <edge source="deal17" target="Bailey" />
+    <edge source="deal17" target="Diaz" />
+    <edge source="deal17" target="Robinson" />
+    <edge source="deal17" target="Rivera" />
+    <edge source="deal15" target="Sanders" />
+    <edge source="deal15" target="Lee" />
+    <edge source="deal15" target="Gutierrez" />
+    <edge source="deal15" target="Miller" />
+    <edge source="deal15" target="Young" />
+    <edge source="deal15" target="Wright" />
+    <edge source="deal15" target="Harris" />
+    <edge source="deal15" target="Scott" />
+    <edge source="deal15" target="Morales" />
+    <edge source="deal15" target="Kelly" />
+    <edge source="deal15" target="Richardson" />
+    <edge source="deal15" target="Turner" />
+    <edge source="deal14" target="Sanchez" />
+    <edge source="deal14" target="Thomas" />
+    <edge source="deal14" target="Cooper" />
+    <edge source="deal14" target="Lee" />
+    <edge source="deal14" target="Clark" />
+    <edge source="deal14" target="Sanders" />
+    <edge source="deal14" target="Wright" />
+    <edge source="deal14" target="Harris" />
+    <edge source="deal14" target="Nelson" />
+    <edge source="deal14" target="Butler" />
+    <edge source="deal14" target="Turner" />
+    <edge source="deal14" target="Ward" />
+    <edge source="deal19" target="Russell" />
+    <edge source="deal19" target="Bell" />
+    <edge source="deal19" target="Rodriguez" />
+    <edge source="deal19" target="Smith" />
+    <edge source="deal19" target="Campbell" />
+    <edge source="deal19" target="Morris" />
+    <edge source="deal19" target="Thompson" />
+    <edge source="deal18" target="Sanchez" />
+    <edge source="deal18" target="Scott" />
+    <edge source="deal18" target="Sanders" />
+    <edge source="deal58" target="Roberts" />
+    <edge source="deal58" target="Evans" />
+    <edge source="deal58" target="Rogers" />
+    <edge source="deal58" target="Barnes" />
+    <edge source="deal58" target="Baker" />
+    <edge source="deal58" target="Brooks" />
+    <edge source="deal58" target="Martinez" />
+    <edge source="deal58" target="Gutierrez" />
+    <edge source="deal58" target="Ward" />
+    <edge source="deal57" target="Murphy" />
+    <edge source="deal57" target="Lee" />
+    <edge source="deal57" target="Evans" />
+    <edge source="deal57" target="Edwards" />
+    <edge source="deal57" target="Roberts" />
+    <edge source="deal57" target="Nelson" />
+    <edge source="deal57" target="Richardson" />
+    <edge source="deal57" target="Williams" />
+    <edge source="deal40" target="Thompson" />
+    <edge source="deal40" target="Gray" />
+    <edge source="deal40" target="Parker" />
+    <edge source="deal40" target="Cooper" />
+    <edge source="deal40" target="Lopez" />
+    <edge source="deal66" target="Wright" />
+    <edge source="deal66" target="Barnes" />
+    <edge source="deal66" target="Rogers" />
+    <edge source="deal66" target="Ross" />
+    <edge source="deal67" target="Hernandez" />
+    <edge source="deal67" target="Gray" />
+    <edge source="deal67" target="Clark" />
+    <edge source="deal67" target="Price" />
+    <edge source="deal67" target="Nguyen" />
+    <edge source="deal67" target="Martin" />
+    <edge source="deal67" target="Collins" />
+    <edge source="deal67" target="Mitchell" />
+    <edge source="deal67" target="Richardson" />
+    <edge source="deal67" target="Ross" />
+    <edge source="deal64" target="Campbell" />
+    <edge source="deal64" target="Russell" />
+    <edge source="deal64" target="Gray" />
+    <edge source="deal64" target="Rodriguez" />
+    <edge source="deal64" target="Cox" />
+    <edge source="deal64" target="Cook" />
+    <edge source="deal64" target="Smith" />
+    <edge source="deal64" target="Martinez" />
+    <edge source="deal64" target="Phillips" />
+    <edge source="deal64" target="Morris" />
+    <edge source="deal64" target="Flores" />
+    <edge source="deal64" target="Thompson" />
+    <edge source="deal64" target="Jenkins" />
+    <edge source="deal65" target="Gonzalez" />
+    <edge source="deal65" target="Reyes" />
+    <edge source="deal65" target="Foster" />
+    <edge source="deal62" target="Sanchez" />
+    <edge source="deal62" target="Parker" />
+    <edge source="deal62" target="Cooper" />
+    <edge source="deal62" target="Sanders" />
+    <edge source="deal62" target="Kelly" />
+    <edge source="deal62" target="Gomez" />
+    <edge source="deal60" target="Wright" />
+    <edge source="deal60" target="Lee" />
+    <edge source="deal60" target="Gutierrez" />
+    <edge source="deal61" target="Sanders" />
+    <edge source="deal61" target="Evans" />
+    <edge source="deal61" target="Rogers" />
+    <edge source="deal61" target="Brooks" />
+    <edge source="deal61" target="Long" />
+    <edge source="deal61" target="Gutierrez" />
+    <edge source="deal61" target="Reyes" />
+    <edge source="deal61" target="Turner" />
+    <edge source="deal61" target="Gomez" />
+    <edge source="deal61" target="Ross" />
+    <edge source="deal68" target="Miller" />
+    <edge source="deal68" target="Gomez" />
+    <edge source="deal68" target="Wood" />
+    <edge source="deal69" target="Kelly" />
+    <edge source="deal69" target="Sanchez" />
+    <edge source="deal69" target="Jackson" />
+    <edge source="deal69" target="Sanders" />
+    <edge source="deal69" target="Reyes" />
+    <edge source="deal75" target="Sanchez" />
+    <edge source="deal75" target="Jackson" />
+    <edge source="deal75" target="Lee" />
+    <edge source="deal75" target="Evans" />
+    <edge source="deal75" target="Howard" />
+    <edge source="deal75" target="Miller" />
+    <edge source="deal75" target="Price" />
+    <edge source="deal75" target="Rogers" />
+    <edge source="deal75" target="Young" />
+    <edge source="deal75" target="Brooks" />
+    <edge source="deal75" target="Butler" />
+    <edge source="deal75" target="Harris" />
+    <edge source="deal75" target="Foster" />
+    <edge source="deal75" target="Fisher" />
+    <edge source="deal75" target="Morales" />
+    <edge source="deal75" target="Barnes" />
+    <edge source="deal75" target="Davis" />
+    <edge source="deal75" target="Richardson" />
+    <edge source="deal75" target="White" />
+    <edge source="deal75" target="Hall" />
+    <edge source="deal75" target="Williams" />
+    <edge source="deal77" target="Thompson" />
+    <edge source="deal77" target="Richardson" />
+    <edge source="deal77" target="Murphy" />
+    <edge source="deal77" target="Gutierrez" />
+    <edge source="deal71" target="Gray" />
+    <edge source="deal71" target="Lee" />
+    <edge source="deal71" target="Rogers" />
+    <edge source="deal71" target="Hall" />
+    <edge source="deal70" target="Gray" />
+    <edge source="deal70" target="White" />
+    <edge source="deal72" target="Long" />
+    <edge source="deal72" target="Lee" />
+    <edge source="deal72" target="Williams" />
+    <edge source="deal72" target="Nelson" />
+    <edge source="deal79" target="Sanders" />
+    <edge source="deal79" target="Martinez" />
+    <edge source="deal79" target="Thompson" />
+    <edge source="deal79" target="Davis" />
+    <edge source="deal79" target="White" />
+    <edge source="deal79" target="Gomez" />
+    <edge source="deal78" target="Sanchez" />
+    <edge source="deal78" target="Long" />
+    <edge source="deal78" target="Hall" />
+    <edge source="deal78" target="Roberts" />
+    <edge source="deal78" target="Foster" />
+    <edge source="deal78" target="Gutierrez" />
+    <edge source="deal78" target="Kelly" />
+    <edge source="deal78" target="Lopez" />
+    <edge source="deal78" target="Ross" />
+    <edge source="deal85" target="Davis" />
+    <edge source="deal85" target="Martinez" />
+    <edge source="deal80" target="Sanchez" />
+    <edge source="deal80" target="Thomas" />
+    <edge source="deal80" target="Russell" />
+    <edge source="deal80" target="Johnson" />
+    <edge source="deal80" target="Bell" />
+    <edge source="deal80" target="Rodriguez" />
+    <edge source="deal80" target="Cox" />
+    <edge source="deal80" target="Gray" />
+    <edge source="deal80" target="Morris" />
+    <edge source="deal80" target="Cook" />
+    <edge source="deal80" target="Anderson" />
+    <edge source="deal80" target="Campbell" />
+    <edge source="deal80" target="Jenkins" />
+    <edge source="deal80" target="Peterson" />
+    <edge source="deal80" target="Sanders" />
+    <edge source="deal74" target="Miller" />
+    <edge source="deal74" target="Peterson" />
+    <edge source="deal74" target="Foster" />
+    <edge source="deal74" target="Scott" />
+    <edge source="deal74" target="Reyes" />
+    <edge source="deal42" target="Sanchez" />
+    <edge source="deal42" target="Jackson" />
+    <edge source="deal42" target="Miller" />
+    <edge source="deal42" target="Young" />
+    <edge source="deal42" target="Garcia" />
+    <edge source="deal42" target="Lopez" />
+    <edge source="deal43" target="King" />
+    <edge source="deal43" target="Taylor" />
+    <edge source="deal43" target="Adams" />
+    <edge source="deal43" target="Torres" />
+    <edge source="deal43" target="Sullivan" />
+    <edge source="deal43" target="Lewis" />
+    <edge source="deal43" target="Bennett" />
+    <edge source="deal43" target="Cruz" />
+    <edge source="deal43" target="Watson" />
+    <edge source="deal43" target="Green" />
+    <edge source="deal43" target="James" />
+    <edge source="deal43" target="Walker" />
+    <edge source="deal43" target="Diaz" />
+    <edge source="deal43" target="Robinson" />
+    <edge source="deal43" target="Carter" />
+    <edge source="deal44" target="Campbell" />
+    <edge source="deal44" target="Moore" />
+    <edge source="deal44" target="Johnson" />
+    <edge source="deal44" target="Phillips" />
+    <edge source="deal44" target="Rodriguez" />
+    <edge source="deal44" target="Bell" />
+    <edge source="deal44" target="Smith" />
+    <edge source="deal44" target="Morris" />
+    <edge source="deal44" target="Ramirez" />
+    <edge source="deal44" target="Garcia" />
+    <edge source="deal44" target="Anderson" />
+    <edge source="deal44" target="Foster" />
+    <edge source="deal44" target="Thompson" />
+    <edge source="deal44" target="Peterson" />
+    <edge source="deal44" target="Gomez" />
+    <edge source="deal45" target="Morales" />
+    <edge source="deal45" target="Nelson" />
+    <edge source="deal45" target="Evans" />
+    <edge source="deal46" target="Moore" />
+    <edge source="deal46" target="Johnson" />
+    <edge source="deal46" target="Bell" />
+    <edge source="deal46" target="Cox" />
+    <edge source="deal46" target="Phillips" />
+    <edge source="deal46" target="Morris" />
+    <edge source="deal46" target="Flores" />
+    <edge source="deal47" target="Gonzalez" />
+    <edge source="deal47" target="Sanders" />
+    <edge source="deal47" target="Thomas" />
+    <edge source="deal47" target="Foster" />
+    <edge source="deal47" target="Peterson" />
+    <edge source="deal48" target="King" />
+    <edge source="deal48" target="Taylor" />
+    <edge source="deal48" target="Adams" />
+    <edge source="deal48" target="Sullivan" />
+    <edge source="deal48" target="James" />
+    <edge source="deal48" target="Perry" />
+    <edge source="deal48" target="Hill" />
+    <edge source="deal48" target="Gutierrez" />
+    <edge source="deal48" target="Walker" />
+    <edge source="deal48" target="Perez" />
+    <edge source="deal48" target="Myers" />
+    <edge source="deal48" target="Rivera" />
+    <edge source="deal48" target="Williams" />
+    <edge source="deal48" target="Ross" />
+    <edge source="deal49" target="Davis" />
+    <edge source="deal38" target="Sanchez" />
+    <edge source="deal38" target="Thomas" />
+    <edge source="deal38" target="Foster" />
+    <edge source="deal38" target="Miller" />
+    <edge source="deal38" target="Garcia" />
+    <edge source="deal38" target="Wood" />
+    <edge source="deal38" target="Scott" />
+    <edge source="deal38" target="Reed" />
+    <edge source="deal38" target="White" />
+    <edge source="deal76" target="Moore" />
+    <edge source="deal76" target="Johnson" />
+    <edge source="deal76" target="Bell" />
+    <edge source="deal76" target="Cox" />
+    <edge source="deal76" target="Cook" />
+    <edge source="deal76" target="Smith" />
+    <edge source="deal76" target="Morris" />
+    <edge source="deal76" target="Phillips" />
+    <edge source="deal76" target="Anderson" />
+    <edge source="deal76" target="Flores" />
+    <edge source="deal76" target="Campbell" />
+    <edge source="deal76" target="Jenkins" />
+    <edge source="deal59" target="Bell" />
+    <edge source="deal59" target="Rodriguez" />
+    <edge source="deal59" target="Cox" />
+    <edge source="deal59" target="Smith" />
+    <edge source="deal59" target="Phillips" />
+    <edge source="deal59" target="Morris" />
+    <edge source="deal56" target="Gonzalez" />
+    <edge source="deal56" target="Sanders" />
+    <edge source="deal56" target="Young" />
+    <edge source="deal56" target="Long" />
+    <edge source="deal56" target="Hall" />
+    <edge source="deal56" target="Wood" />
+    <edge source="deal56" target="Gutierrez" />
+    <edge source="deal56" target="Peterson" />
+    <edge source="deal56" target="Lopez" />
+    <edge source="deal55" target="Richardson" />
+    <edge source="deal55" target="Long" />
+    <edge source="deal53" target="Brown" />
+    <edge source="deal53" target="Taylor" />
+    <edge source="deal53" target="Carter" />
+    <edge source="deal53" target="King" />
+    <edge source="deal53" target="Sullivan" />
+    <edge source="deal53" target="Ortiz" />
+    <edge source="deal53" target="Cruz" />
+    <edge source="deal53" target="Thompson" />
+    <edge source="deal53" target="Watson" />
+    <edge source="deal53" target="Diaz" />
+    <edge source="deal53" target="Morgan" />
+    <edge source="deal53" target="Davis" />
+    <edge source="deal53" target="Perez" />
+    <edge source="deal53" target="Gray" />
+    <edge source="deal53" target="Myers" />
+    <edge source="deal53" target="Robinson" />
+    <edge source="deal52" target="Nguyen" />
+    <edge source="deal52" target="Baker" />
+    <edge source="deal52" target="Harris" />
+    <edge source="deal52" target="Morales" />
+    <edge source="deal52" target="Rogers" />
+    <edge source="deal50" target="Gray" />
+    <edge source="deal50" target="Young" />
+    <edge source="deal50" target="Garcia" />
+    <edge source="deal50" target="Wood" />
+    <edge source="deal50" target="Scott" />
+    <edge source="deal50" target="Thompson" />
+    <edge source="deal30" target="Gonzalez" />
+    <edge source="deal30" target="Cooper" />
+    <edge source="deal30" target="Howard" />
+    <edge source="deal30" target="Gutierrez" />
+    <edge source="deal30" target="Turner" />
+    <edge source="deal30" target="Ward" />
+    <edge source="deal28" target="Miller" />
+    <edge source="deal28" target="Young" />
+    <edge source="deal28" target="Martinez" />
+    <edge source="deal28" target="Wood" />
+    <edge source="deal28" target="Scott" />
+    <edge source="deal28" target="Allen" />
+    <edge source="deal28" target="White" />
+    <edge source="deal29" target="Garcia" />
+    <edge source="deal29" target="Jackson" />
+    <edge source="deal29" target="Allen" />
+    <edge source="deal22" target="Jones" />
+    <edge source="deal22" target="Torres" />
+    <edge source="deal22" target="Wilson" />
+    <edge source="deal22" target="Perry" />
+    <edge source="deal22" target="Gutierrez" />
+    <edge source="deal22" target="Morales" />
+    <edge source="deal22" target="Rogers" />
+    <edge source="deal22" target="Lewis" />
+    <edge source="deal22" target="Edwards" />
+    <edge source="deal22" target="Ortiz" />
+    <edge source="deal22" target="Cruz" />
+    <edge source="deal22" target="Brooks" />
+    <edge source="deal22" target="Watson" />
+    <edge source="deal22" target="Diaz" />
+    <edge source="deal22" target="Nelson" />
+    <edge source="deal22" target="Morgan" />
+    <edge source="deal22" target="James" />
+    <edge source="deal22" target="Stewart" />
+    <edge source="deal22" target="Hill" />
+    <edge source="deal23" target="Sanchez" />
+    <edge source="deal23" target="Cooper" />
+    <edge source="deal23" target="Lopez" />
+    <edge source="deal23" target="Powell" />
+    <edge source="deal23" target="Ramirez" />
+    <edge source="deal26" target="Gonzalez" />
+    <edge source="deal26" target="Sanders" />
+    <edge source="deal26" target="Thomas" />
+    <edge source="deal26" target="Young" />
+    <edge source="deal26" target="Ramirez" />
+    <edge source="deal26" target="Foster" />
+    <edge source="deal26" target="Reyes" />
+    <edge source="deal26" target="Thompson" />
+    <edge source="deal26" target="Allen" />
+    <edge source="deal26" target="Lopez" />
+    <edge source="deal27" target="Miller" />
+    <edge source="deal27" target="Baker" />
+    <edge source="deal27" target="Long" />
+    <edge source="deal27" target="Wood" />
+    <edge source="deal27" target="Gutierrez" />
+    <edge source="deal27" target="Barnes" />
+    <edge source="deal27" target="Peterson" />
+    <edge source="deal25" target="Kelly" />
+    <edge source="deal25" target="Garcia" />
+    <edge source="deal25" target="Thomas" />
+    <edge source="deal25" target="Peterson" />
+    <edge source="deal25" target="Ramirez" />
+    <edge source="deal73" target="Gonzalez" />
+    <edge source="deal73" target="Garcia" />
+    <edge source="deal73" target="Thomas" />
+    <edge source="deal73" target="Ramirez" />
+    <edge source="deal92" target="Wilson" />
+    <edge source="deal92" target="Perry" />
+    <edge source="deal92" target="Bailey" />
+    <edge source="deal92" target="Diaz" />
+    <edge source="deal92" target="Hill" />
+    <edge source="deal92" target="Butler" />
+    <edge source="deal92" target="Collins" />
+    <edge source="deal92" target="White" />
+    <edge source="deal92" target="Brown" />
+    <edge source="deal92" target="Price" />
+    <edge source="deal92" target="Cruz" />
+    <edge source="deal92" target="Fisher" />
+    <edge source="deal92" target="Hughes" />
+    <edge source="deal92" target="Adams" />
+    <edge source="deal92" target="James" />
+    <edge source="deal92" target="Myers" />
+    <edge source="deal92" target="Stewart" />
+    <edge source="deal92" target="Thompson" />
+    <edge source="deal92" target="Taylor" />
+    <edge source="deal92" target="Carter" />
+    <edge source="deal92" target="Lewis" />
+    <edge source="deal92" target="Perez" />
+    <edge source="deal0" target="Davis" />
+    <edge source="deal0" target="Thompson" />
+    <edge source="deal0" target="Parker" />
+    <edge source="deal39" target="King" />
+    <edge source="deal39" target="Hughes" />
+    <edge source="deal39" target="Carter" />
+    <edge source="deal39" target="Sullivan" />
+    <edge source="deal39" target="James" />
+    <edge source="deal39" target="Hill" />
+    <edge source="deal13" target="Sanchez" />
+    <edge source="deal13" target="Jackson" />
+    <edge source="deal13" target="Gray" />
+    <edge source="deal13" target="Sanders" />
+    <edge source="deal13" target="Scott" />
+    <edge source="deal13" target="Davis" />
+    <edge source="deal13" target="Peterson" />
+    <edge source="deal13" target="Gomez" />
+    <edge source="deal31" target="Sanders" />
+    <edge source="deal31" target="Thomas" />
+    <edge source="deal31" target="Parker" />
+    <edge source="deal31" target="Jackson" />
+    <edge source="deal31" target="Clark" />
+    <edge source="deal31" target="Howard" />
+    <edge source="deal31" target="Brooks" />
+    <edge source="deal31" target="Lopez" />
+    <edge source="deal31" target="Fisher" />
+    <edge source="deal31" target="Martin" />
+    <edge source="deal31" target="Collins" />
+    <edge source="deal31" target="Gomez" />
+    <edge source="deal31" target="Hall" />
+    <edge source="deal33" target="Davis" />
+    <edge source="deal33" target="Martinez" />
+    <edge source="deal33" target="Gray" />
+    <edge source="deal33" target="Murphy" />
+    <edge source="deal33" target="Howard" />
+    <edge source="deal32" target="Ramirez" />
+    <edge source="deal35" target="Moore" />
+    <edge source="deal35" target="Johnson" />
+    <edge source="deal35" target="Bell" />
+    <edge source="deal35" target="Rodriguez" />
+    <edge source="deal35" target="Cox" />
+    <edge source="deal35" target="Cook" />
+    <edge source="deal35" target="Smith" />
+    <edge source="deal35" target="Phillips" />
+    <edge source="deal35" target="Anderson" />
+    <edge source="deal35" target="Flores" />
+    <edge source="deal35" target="Campbell" />
+    <edge source="deal34" target="Parker" />
+    <edge source="deal34" target="Martinez" />
+    <edge source="deal34" target="Wood" />
+    <edge source="deal34" target="Scott" />
+    <edge source="deal34" target="Thompson" />
+    <edge source="deal34" target="Reyes" />
+    <edge source="deal34" target="Gomez" />
+    <edge source="deal37" target="Gonzalez" />
+    <edge source="deal37" target="Peterson" />
+    <edge source="deal37" target="Scott" />
+    <edge source="deal37" target="Young" />
+    <edge source="deal36" target="Evans" />
+    <edge source="deal36" target="Clark" />
+    <edge source="deal36" target="Barnes" />
+    <edge source="deal36" target="Long" />
+    <edge source="deal36" target="Roberts" />
+    <edge source="deal36" target="Wright" />
+    <edge source="deal36" target="Gutierrez" />
+    <edge source="deal36" target="Butler" />
+    <edge source="deal36" target="Collins" />
+    <edge source="deal36" target="Williams" />
+    <edge source="deal36" target="Lee" />
+    <edge source="deal16" target="Davis" />
+    <edge source="deal16" target="White" />
+  </graph>
+</graphml>

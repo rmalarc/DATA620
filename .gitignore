@@ -2,3 +2,7 @@
 project1/data/amazon-meta.txt.gz
 
 project/data/amazon-meta.txt.gz
+
+credentials.py
+
+*.pyc

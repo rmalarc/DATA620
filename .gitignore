@@ -6,3 +6,7 @@ project/data/amazon-meta.txt.gz
 credentials.py
 
 *.pyc
+
+project2/co-products.csv
+
+project2/co-products.sql
